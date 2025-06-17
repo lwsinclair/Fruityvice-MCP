@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/celalkhalilov-fruityvice-mcp-badge.png)](https://mseep.ai/app/celalkhalilov-fruityvice-mcp)
+
 # Fruityvice MCP Server
 
 Bu MCP (Model Context Protocol) server, Fruityvice API'sini kullanarak meyvelerin beslenme bilgilerini ve detaylarını sağlar.
